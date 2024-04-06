@@ -3,13 +3,13 @@
 <div style="display:flex; justify-content: center;">
   <div style="text-align: center;">
     <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=20&width=600&lines=Hello+everyone!+My+name+is+Divyanshu+Shukla.+I+am+a+Full+Stack+Web+Developer+from+India." alt="Typing SVG" />     
+      <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=20&width=600&lines=Hello+Everyone!+My+name+is+Divyanshu+Shukla." alt="Typing SVG" />     
     </a>
   </div>
 </div>
 <br>
 <h1 align="center">✨About me✨</h1>
-<p align="center">Aspiring web developer passionate about creating user-friendly websites for a positive impact. Proficient in HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB. Skilled in front-end development, UX optimization, and great at problem-solving, with a background in competitive programming.  </p>
+<p align="center">Full-Stack web developer passionate about creating user-friendly websites for a positive impact. Proficient in HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB. Skilled in front-end development, and UX optimization, problem-solving attitude, with a background in competitive programming.  </p>
 <br></br>
 <h1 align="center">✨My Skills✨</h1>
 
