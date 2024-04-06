@@ -1,16 +1,15 @@
-<img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/octocat/daftpunktocat-thomas.gif"/>
-<br></br>
+<img alt="Coder GIF" height=550 width=100% src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
+
 <div style="display:flex; justify-content: center;">
   <div style="text-align: center;">
     <a href="https://git.io/typing-svg">
       <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=20&width=600&lines=Hello+everyone!+My+name+is+Divyanshu+Shukla.+I+am+a+Full+Stack+Web+Developer+from+India." alt="Typing SVG" />     
     </a>
-    
   </div>
 </div>
 <br>
 <h1 align="center">✨About me✨</h1>
-<p align="center">I am a 3rd year CS student with a knack for open source, always eager to learn about new technology trends, with a dedication to learn and enhance my skills. Presently, I am seeking to contribute in beginner open source ML projects to showcase my ML skills.  </p>
+<p align="center">Aspiring web developer passionate about creating user-friendly websites for a positive impact. Proficient in HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB. Skilled in front-end development, UX optimization, and great at problem-solving, with a background in competitive programming.  </p>
 <br></br>
 <h1 align="center">✨My Skills✨</h1>
 
