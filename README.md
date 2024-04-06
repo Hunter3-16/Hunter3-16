@@ -1,11 +1,8 @@
-<img width=100% src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/c288471c-be67-4fbb-af44-1c63ee9ed280" />
-<div style="display:flex; justify-content: center;">
-  <div style="text-align: center;">
-    <a href="https://git.io/typing-svg">
-      <img src="https://readme-typing-svg.demolab.com?font=Gloria+Hallelujah&size=20&width=600&lines=Hello+Everyone!+My+name+is+Divyanshu+Shukla." alt="Typing SVG" />     
-    </a>
-  </div>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Merriweather&weight=900&size=25&duration=800&pause=1000&random=true&width=500&height=100&lines=Hello+Everyone!+I+am+Divyanshu+Shukla" alt="Typing SVG" /></a>
 </div>
+
+
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 <h1 align="center">✨About me✨</h1>
 <p align="center">Full-Stack web developer passionate about creating user-friendly websites for a positive impact. Proficient in HTML, CSS, JavaScript, ReactJS, ExpressJS, NodeJS, MongoDB. Skilled in front-end development, and UX optimization, problem-solving attitude, with a background in competitive programming.  </p>
