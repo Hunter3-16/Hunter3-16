@@ -25,7 +25,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-<h1 align="center">✨GitHub Stats✨</h1>
+<h1 align="center">✨Programming Stats✨</h1>
 <img width=100% src='https://github-readme-streak-stats.herokuapp.com/?user=hunter3-16&theme=vue-dark&hide_border=true' />
 <img width=100% src="https://leetcard.jacoblin.cool/divyanshushukla82?ext=heatmap">
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
