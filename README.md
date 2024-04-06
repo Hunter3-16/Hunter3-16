@@ -29,7 +29,7 @@
 <h1 align="center">✨Programming Stats✨</h1>
 <div style="display:flex;">
 <img style="float: left" width=50% src="https://leetcard.jacoblin.cool/divyanshushukla82?ext=heatmap" />
-  <img style="float: right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="45%">
+  <img style="float: right" src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" width="40%">
 <img width=100% src="https://github-readme-streak-stats.herokuapp.com?user=hunter3-16&theme=vue-dark&mode=weekly">
 </div>
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
