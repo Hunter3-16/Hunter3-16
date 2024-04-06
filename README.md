@@ -32,7 +32,14 @@
   <img src="https://user-images.githubusercontent.com/74038190/212281775-b468df30-4edc-4bf8-a4ee-f52e1aaddc86.gif" width="100">
   <img src="https://user-images.githubusercontent.com/74038190/212280805-9bcb336b-8c55-46a8-abf8-ff286ab55472.gif" width="100">
 </div>
-  ![hunter3-16's Streak](https://github-readme-streak-stats.herokuapp.com/?user=hunter3-16&theme=react&hide_border=false)
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<h1 align="center">✨GitHub Stats✨</h1>
+<img width=100% src='https://github-readme-streak-stats.herokuapp.com/?user=hunter3-16&theme=vue-dark&hide_border=true' />
+<img width=100% src="https://leetcard.jacoblin.cool/divyanshushukla82?ext=heatmap">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+<h1 align="center">✨Social Links✨</h1>
+
+
 
 <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
   
